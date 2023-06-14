@@ -7,5 +7,5 @@
 Code written and executed using MATLAB
 
 <p align="left">
-  <img width="460" height="300" src="images/2d wave.png">
+  <img width="460" height="300" src="images/2d wave.PNG">
 </p>
